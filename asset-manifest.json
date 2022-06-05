@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/statistics-per-day/static/css/main.3df54ab0.css",
-    "main.js": "/statistics-per-day/static/js/main.6caf9888.js",
+    "main.js": "/statistics-per-day/static/js/main.9d246d1c.js",
     "index.html": "/statistics-per-day/index.html",
     "main.3df54ab0.css.map": "/statistics-per-day/static/css/main.3df54ab0.css.map",
-    "main.6caf9888.js.map": "/statistics-per-day/static/js/main.6caf9888.js.map"
+    "main.9d246d1c.js.map": "/statistics-per-day/static/js/main.9d246d1c.js.map"
   },
   "entrypoints": [
     "static/css/main.3df54ab0.css",
-    "static/js/main.6caf9888.js"
+    "static/js/main.9d246d1c.js"
   ]
 }
